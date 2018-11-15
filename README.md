@@ -12,3 +12,5 @@ RUNNING THE PROJECT:
   The text files are necessary for giving the project words to process, but they can be whatever text you would like.
   Each set of tests will run for each text document.
   If the given text files are used, the difficultly of processing a file increases with the number of the file. 1.txt being easier to process than 2.txt and so on.
+
+NOTE: I only wrote Word and WordDictionary. The other classes were provided to us.
